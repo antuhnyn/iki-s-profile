@@ -151,7 +151,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%) perspective(1000px);
   width: 500px; 
-  height: 670px;
+  height: 600px;
   background-color: rgba(0, 0, 0, 0.377);
   border-radius: 20px;
   border: 2px solid rgba(255, 255, 255, 0.137);
@@ -230,7 +230,7 @@ body {
 .links {
   position: absolute;
   bottom: 20px;
-  left: 50%;
+  left: 49%;
   transform: translateX(-50%);
   display: flex;
   justify-content: center;
